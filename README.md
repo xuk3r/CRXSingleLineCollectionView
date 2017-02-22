@@ -1,2 +1,4 @@
 # CRXSingleLineCollectionView
 CRXSingleLineCollectionView
+
+单行单列移动的View
